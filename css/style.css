@@ -163,10 +163,193 @@ a {
   color: #999;
   font-size: 0.9rem;
   margin-bottom: 2rem;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.post-content {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 1.1rem;
+  line-height: 1.8;
 }
 
 .post-content p {
   margin-bottom: 1.25rem;
+}
+
+/* --- Desktop Publishing Styles --- */
+
+/* Drop cap: add class="drop-cap" to the first <p> of a post */
+.post-content .drop-cap::first-letter {
+  float: left;
+  font-size: 4.2em;
+  line-height: 0.8;
+  padding-right: 0.08em;
+  margin-top: 0.05em;
+  font-weight: 700;
+  color: #111;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+/* Pull quote: <blockquote class="pull-quote">text</blockquote> */
+.pull-quote {
+  float: right;
+  width: 40%;
+  margin: 0.5rem 0 1rem 2rem;
+  padding: 1rem 0 1rem 1.5rem;
+  border-left: 3px solid #111;
+  font-size: 1.3rem;
+  font-style: italic;
+  line-height: 1.5;
+  color: #111;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.pull-quote-left {
+  float: left;
+  width: 40%;
+  margin: 0.5rem 2rem 1rem 0;
+  padding: 1rem 1.5rem 1rem 0;
+  border-left: none;
+  border-right: 3px solid #111;
+  text-align: right;
+  font-size: 1.3rem;
+  font-style: italic;
+  line-height: 1.5;
+  color: #111;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+/* Two-column text: wrap paragraphs in <div class="two-col">...</div> */
+.two-col {
+  column-count: 2;
+  column-gap: 2.5rem;
+  column-rule: 1px solid #e0e0e0;
+}
+
+/* Three-column text */
+.three-col {
+  column-count: 3;
+  column-gap: 2rem;
+  column-rule: 1px solid #e0e0e0;
+}
+
+/* Image float right: <img class="img-right" src="..." alt="..."> */
+.img-right {
+  float: right;
+  max-width: 45%;
+  margin: 0.25rem 0 1rem 1.5rem;
+  border-radius: 3px;
+}
+
+/* Image float left */
+.img-left {
+  float: left;
+  max-width: 45%;
+  margin: 0.25rem 1.5rem 1rem 0;
+  border-radius: 3px;
+}
+
+/* Full-bleed image: <img class="img-full" src="..." alt="..."> */
+.img-full {
+  width: 100%;
+  margin: 1.5rem 0;
+  border-radius: 3px;
+}
+
+/* Image with caption: <figure class="fig"><img ...><figcaption>...</figcaption></figure> */
+.fig {
+  margin: 1.5rem 0;
+}
+
+.fig img {
+  width: 100%;
+  border-radius: 3px;
+}
+
+.fig figcaption {
+  font-size: 0.8rem;
+  color: #999;
+  margin-top: 0.5rem;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-style: italic;
+}
+
+.fig-right {
+  float: right;
+  max-width: 45%;
+  margin: 0.25rem 0 1rem 1.5rem;
+}
+
+.fig-left {
+  float: left;
+  max-width: 45%;
+  margin: 0.25rem 1.5rem 1rem 0;
+}
+
+.fig-right img,
+.fig-left img {
+  width: 100%;
+  border-radius: 3px;
+}
+
+/* Section divider: <hr class="divider"> */
+.divider {
+  border: none;
+  text-align: center;
+  margin: 2.5rem 0;
+}
+
+.divider::before {
+  content: '* * *';
+  color: #bbb;
+  font-size: 1.2rem;
+  letter-spacing: 0.5em;
+}
+
+/* Thin rule divider: <hr class="rule"> */
+.rule {
+  border: none;
+  border-top: 1px solid #ddd;
+  margin: 2rem 0;
+}
+
+/* Subtitle / deck: <p class="deck">...</p> under the h1 */
+.deck {
+  font-size: 1.25rem;
+  color: #666;
+  font-style: italic;
+  line-height: 1.5;
+  margin-bottom: 2rem;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+/* Small caps for bylines or labels */
+.small-caps {
+  font-variant: small-caps;
+  letter-spacing: 0.05em;
+  font-size: 0.95rem;
+}
+
+/* Epigraph: <blockquote class="epigraph">...<cite>— Author</cite></blockquote> */
+.epigraph {
+  font-style: italic;
+  color: #666;
+  border: none;
+  padding: 0;
+  margin: 0 0 2.5rem 0;
+  text-align: center;
+  font-size: 1.05rem;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.epigraph cite {
+  display: block;
+  margin-top: 0.5rem;
+  font-style: normal;
+  font-size: 0.85rem;
+  color: #999;
 }
 
 .back-link {
@@ -271,5 +454,30 @@ footer a:hover {
 
   .gallery-grid {
     grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  }
+
+  .two-col,
+  .three-col {
+    column-count: 1;
+  }
+
+  .pull-quote,
+  .pull-quote-left {
+    float: none;
+    width: 100%;
+    margin: 1.5rem 0;
+    border-left: 3px solid #111;
+    border-right: none;
+    text-align: left;
+    padding: 0.75rem 0 0.75rem 1rem;
+  }
+
+  .img-right,
+  .img-left,
+  .fig-right,
+  .fig-left {
+    float: none;
+    max-width: 100%;
+    margin: 1.25rem 0;
   }
 }
