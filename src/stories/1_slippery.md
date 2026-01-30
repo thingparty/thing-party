@@ -94,8 +94,6 @@ I made the first move. "What happened," I asked disarmed by the deep unused scra
 
 "You accidentally fell when you were taking a shower. You slipped, honey. And you hit your neck, and--"
 
-***
-
 They found me when the water from the tub leaked into the apartment downstairs. They ignored it for as long as they could, filling up buckets and pots and pans hoping the leak would stop on its own. When it didn't they called the superintendent who, when I didn't answer, checked the plumbing and heating systems before finally breaking into my apartment. I'd been unconscious for fourteen hours before they found me black and blue, unconscious, but thankfully still breathing.
 
 I wish that I understood myself well enough to know if my slipping in the bathtub had anything to do with the mysterious forces of my contemplations. If my fascination with the girl who fell and what it means as a symbol. If maybe she loosened the psychic grips that normally kept me standing while taking a shower and balanced without difficulty while shaving my legs. I doubt I'll ever get so deep and dark again- so close to my ID, to ever know for sure.
