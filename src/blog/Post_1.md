@@ -3,9 +3,6 @@ title: The Digital Seal
 date: 2026-01-30
 deck: How AI Prompts Function as Modern Mudras (written with Gemini)
 ---
-
-### The Digital Seal: How AI Prompts Function as Modern Mudras
-
 In the ancient language of symbolic gesture, there is a concept known as the _mudra_. While often simplified as a mere hand position, its deeper meaning is far more architectural: a mudra is a "seal," an "imprint," or a "vessel." It is a specific, organized form designed to hold and direct the otherwise fluid and expansive energy of consciousness.
 
 As we navigate the emerging landscape of Artificial Intelligence, this ancient framework offers a startlingly accurate metaphor for the art of the prompt. We often think of prompting as a simple set of instructions—a line of code or a request for information. However, if we look closer, an AI prompt functions exactly like a mudra: it is the mold into which the "liquid" potential of a vast, inchoate output is poured to take a specific shape.
