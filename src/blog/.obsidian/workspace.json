@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "d5b2d7159a6af0df",
+    "type": "split",
+    "children": [
+      {
+        "id": "e45467895f5f6467",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "41846c3ae9d58ab3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Post_1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Post_1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c13c07f3ae0b67b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "69dff9488563f541",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7b400e581d26b37",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3e748e0b6fc7e264",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b12e03a10b06d360",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "88e4fd8dd7532be9",
+    "type": "split",
+    "children": [
+      {
+        "id": "65b1f91b96bb5063",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33621ac2d0981253",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "The Digital Seal - How AI Prompts Function as Modern Mudras.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for The Digital Seal - How AI Prompts Function as Modern Mudras"
+            }
+          },
+          {
+            "id": "6b33db5a9f394125",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "The Digital Seal - How AI Prompts Function as Modern Mudras.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from The Digital Seal - How AI Prompts Function as Modern Mudras"
+            }
+          },
+          {
+            "id": "eb144654e507d218",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "be8ef144d0aad4d6",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "73060a3353a8da94",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "The Digital Seal - How AI Prompts Function as Modern Mudras.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of The Digital Seal - How AI Prompts Function as Modern Mudras"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "41846c3ae9d58ab3",
+  "lastOpenFiles": [
+    "hello-world.md",
+    "Post_1.md",
+    "Thing-Post-1.md",
+    "The Digital Seal - How AI Prompts Function as Modern Mudras.md"
+  ]
+}
