@@ -1,7 +1,7 @@
 ---
 title: The Digital Seal
 date: 2026-01-30
-deck: How AI Prompts Function as Modern Mudras
+deck: How AI Prompts Function as Modern Mudras (written with Gemini)
 ---
 
 ### The Digital Seal: How AI Prompts Function as Modern Mudras
