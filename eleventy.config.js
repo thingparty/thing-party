@@ -15,6 +15,7 @@ export default function(eleventyConfig) {
   });
 
   return {
+    pathPrefix: "/thing-party/",
     dir: {
       input: "src",
       includes: "_includes",

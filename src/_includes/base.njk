@@ -4,18 +4,18 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{% if title %}{{ title }} — {% endif %}{{ site.title }}</title>
-  <link rel="stylesheet" href="/css/style.css">
+  <link rel="stylesheet" href="{{ '/css/style.css' | url }}">
 </head>
 <body>
   {% if not hideNav %}
   <nav>
     <div class="container">
-      <a href="/" class="site-name">{{ site.title }}</a>
+      <a href="{{ '/' | url }}" class="site-name">{{ site.title }}</a>
       <ul class="nav-links">
-        <li><a href="/about/">About</a></li>
-        <li><a href="/blog/">Blog</a></li>
-        <li><a href="/stories/">Stories</a></li>
-        <li><a href="/paintings/">Paintings</a></li>
+        <li><a href="{{ '/about/' | url }}">About</a></li>
+        <li><a href="{{ '/blog/' | url }}">Blog</a></li>
+        <li><a href="{{ '/stories/' | url }}">Stories</a></li>
+        <li><a href="{{ '/paintings/' | url }}">Paintings</a></li>
       </ul>
     </div>
   </nav>
@@ -31,7 +31,7 @@
   </footer>
 
   {% if extraJs %}
-  <script src="{{ extraJs }}"></script>
+  <script src="{{ extraJs | url }}"></script>
   {% endif %}
 </body>
 </html>

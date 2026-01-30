@@ -11,6 +11,6 @@ permalink: /about/
 
 **CURRENT:** Amazon Sortation Associate, writer, painter.
 
-<img src="/images/About.png" alt="About" class="about-photo">
+<img src="{{ '/images/About.png' | url }}" alt="About" class="about-photo">
 
 </div>
