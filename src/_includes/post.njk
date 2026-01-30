@@ -1,0 +1,14 @@
+---
+layout: base.njk
+---
+<div class="container">
+  <h1>{{ title }}</h1>
+  <p class="post-meta">{{ date | readableDate }}</p>
+  {% if deck %}
+  <p class="deck">{{ deck }}</p>
+  {% endif %}
+  <div class="post-content">
+    {{ content | safe }}
+  </div>
+  <a href="/blog/" class="back-link">&larr; Back to blog</a>
+</div>

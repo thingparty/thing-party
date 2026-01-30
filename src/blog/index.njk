@@ -1,0 +1,18 @@
+---
+layout: base.njk
+title: Blog
+permalink: /blog/
+tags: []
+eleventyExcludeFromCollections: true
+---
+<div class="container">
+  <h1>Blog</h1>
+  <ul class="post-list">
+    {%- for post in collections.post | reverse %}
+    <li>
+      <a href="{{ post.url }}">{{ post.data.title }}</a>
+      <span class="date">{{ post.date | readableDate }}</span>
+    </li>
+    {%- endfor %}
+  </ul>
+</div>

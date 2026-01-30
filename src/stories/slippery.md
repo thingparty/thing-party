@@ -1,0 +1,131 @@
+---
+title: Slippery
+---
+
+What really started it all, I wonder? It would seem to be, I was seemingly bothered, I guess- yes I was. I was upset because a girl my age, youngish, who lived in my apartment building, climbed the fire escape to break into her apartment on the fifth floor and didn't make it. Instead she slipped and fell on her head and cracked it open on the sidewalk.
+
+That must've upset me. It did. And because I didn't find out about it until 3 days after it happened, because I was somewhere, I don't know where, because I was somewhere else other than home, I didn't know that this particular something happened when it did.
+
+What upset me was that, to the people that live in my building, the death of one of its tenants was not remarkable. In my building we abided by a strict live and let live, mind your own beez wax, try to avoid saying hello if at all possible, do not borrow an egg or cup of sugar (you go to the deli and buy it) policy.
+
+In the past I loved this about my building. Separate lives- thank you God! Yes, we all lived within centimeters of one another, but once when I a bit of butter dripped onto the bottom of my oven--I am not a great cook (ordering out is a better idea for me)-- but I made a bad judgement call and decided to try a squash thing and the butter melted in the bottom of the oven and there was more smoke than a small apartment can accommodate and it was just a mistake, just the tiniest bit of a buttery error- well--someone called the fire department rather than just come up stairs and see what all the smoky fuss was about and as a result I was forced to make terrible jokes to a group of weary firemen- "Is this what you have to do to get a man to come to your apartment in New York?" "Fire in the hole!" "Don't worry, it's just my Burning Bush." "I keep telling these people I am NOT a witch and they refuse to believe me."
+
+I get off on saying inappropriate things in uncomfortable situations. The firemen blushed at my comments, embarrassed for me, and moved on to more pressing emergencies. And I have no idea who ratted on me because I had no idea who lived in my building. None.
+
+I did know, however, about the youngish girls living on the fifth floor because frequently when I was awake and sleepless at 5am, watching a DVD, I listened as they clomped up the stairway in cowboy boots, dragging slurred male voices into the morning with them. I was happy to accommodate the noise in exchange for the indication of life in the building.
+
+Someone, her parents I'm assuming, had erected a small memorial for her near where she fell on the sidewalk, in the alcove of a clothing boutique. A laminated 8x10 paper plaque with her xeroxed picture and a short biography. The picture showed us that she was young and unformed. Her brown hair and soft eyes told us she had not yet grown up. The words of praise for her short life tried to make her sound like she had done more with her short life than she had. I'm sure her family didn't realize how little she'd done until they had to write filler for her obituary. There was also a red candle in a glass jar and a small potted African Violet.
+
+I flipped through several local newspapers, the kind you find in plastic bins outside of bars, for reporting on the incident but there was none. I'd never have found out about it if one of the neighborhood women hadn't stopped me on my way to the laundry mat and asked if I had any news of the girl who had fell. Annoyed at being approached by a stranger, I told her I didn't know what she was referring to, and she replied in disturbing non-sequiturs saying "Oh but there was so much blood- all over the sidewalk. She landed right on her head. She slipped. She locked herself out of her apartment, she must be dead."
+
+After that, I became disturbed with thoughts of her death. I've pulled stunts like hers, many times, and it never occurred to me that it might not work out. I would never think twice about scaling a tall building to get into my home- slipping just doesn't happen to careless girls climbing fire escapes in cowboy boots. That would be insulting to the order of the universe. And if one of them fell by mistake they'd surely fall directly onto large bags of garbage arranged like a big fluffy mattress.
+
+I wondered if she was wearing her cowboy boots when she died. I wondered if the other girl, her roommate friend felt broken, if this has caused her to grow up.
+
+Even though we are so very private in my building it bothered me that I did not see a sign in the building, marking the accident in some way. Something like "Hey. Let's all meet out back Sunday night to talk about what happened ... A barbeque to memorialize the memory of our dear friend--" or "Free counseling to those recovering from the stress of..."
+
+But there was never anything posted about this poor girl's tragedy in my building. Someone did, however, post a note asking me to remove a rag that had been lying in front of my door in the hallway. It was mean spirited I thought. Especially in the absence of the meaningful signs that I felt should have been posted and weren't.
+
+The long spring days leaked into the summer and the small memorial remained undisturbed. Someone, I never saw them do it, continued to light the candle and water the violet. I thought about asking the snobby girls who worked in the little shop if they knew anything- "who waters the plant? Did she scream on the way down? What did it sound like when she hit the pavement? Did you dare touch her while you were waiting for 911? Did you stay inside your shop? How long before you could eat again? Do you feel cursed, special, embarrassed, removed? Did blood splatter on your shop window or spray through the screen door onto your fresh, snappy white linens?"
+
+The incident made confrontational. My questions for the shop girls were meant to be unkind, I wasn't trying to satisfy my curiosity. I had feelings about these shop girls that preceded the fall. They came off as elite and vacant, and fashionable; The kind of smoking east villager who made me want to spill coffee on their shoes.
+
+From the day I moved in I cast them in the role of gossiping meanies glaring at my sweat pants and scrunchies. In my mind they never approved of my presence in the neighborhood and tisked each time I tainted the atmosphere by daring to walk past their window. It was a silly game- a fun imaginary antagonism to roll around in my head; an imaginary rivalry giving myself an outsider status that I didn't really earn. And of course I am the one who never once stepped foot into their shops- did not support local business like the flyers slipped under my door requested Instead I bought cheap clothes made from synthetic fabrics, poorly cut and too young for me from stores with names that sounded like they were meant for pre-teen brands of lip-gloss.
+
+Despite the gruesome interrogation I had brewing- that the memorial remained safely nestled in under the wing of their store front softened my fake vitriol.
+
+All summer I sat in my apartment doing nothing. The cowboy boots stomped no more. I listened to people jangle their keys- locking and unlocking their home life and I contemplated slipping. Like the girl, I too was slipping but I didn't realize it, or didn't care. Until then I too had worn cowboy boots, carelessly and triumphantly stomping up and down relationships and careers.
+
+If I got locked out of places or people, no matter. Like the girl, I'd hike up my mini skirt and heave myself up and over any obstacle- nothing could stop me from climbing up into my own damn window if I fucking felt like it. If I had pulled out a loaded pistol no one would have been surprised. Right.
+
+Then I slipped. Quickly. Noiselessly I fell into debt, jobless and timid, fell into confusion and voicelessness and cowardice. My cowboy boots were replaced with one ratty bunny slipper and one flip flop and my existence was confused by the absence of red blood on the sidewalk and the lack of a percussive smack- missing the satisfaction that comes with the impact of my head with hard cement.
+
+I continued slipping. And the slipping didn't stop after the first time I lost my grip. It continued because I'd lost all traction, all ability for stickiness, adhesive and connection. I slipped over and over again and every time I grabbed and the more I reached the more the loss of what little equilibrium I still had was at stake. I was like an ambitious fetus kicking away in the womb with a will to do anything- anything besides floating.
+
+It is maddening to feel like a fetus even when you are one.
+
+More angering still, I discovered that I had removed all of anything I might have clung to during that time.
+
+Believing that I was cleaning house, taking out the garbage, lighting a fire to smoke the mice out of the vents- I said goodbye to many groups of people- all activity and productivity. Even intoxicants of various kinds, I viewed them as crutches and I disposed of all my dependencies. How comforting it would be to smoke cigarettes again, late into the night.
+
+And what lay at the bottom of the slide when I stopped struggling? For that young cocky girl it was pavement and death and probably silence. For me, I hoped there would be at the very least the feeling of rest.
+
+With all this in mind I released into the downward pull of the slick mountainside and descended.
+
+I had never dropped out this deep before. And it felt right, like being alone on the bottom of the sea, finally free to explore without anyone watching. It scared me and I loved it too- I kind of really loved it. Down there I could glide, I was sleek, slipping was a non-issue.
+
+Deep in this darkness I found that things glowed, and I didn't understand how that was possible. Isn't light reflective, doesn't it come from the sun? Or does it? What the hell is light, anyway? Why did I feel bright down there without cause? Was it self-generated?
+
+I went inside myself. I ate plankton and algae- the nourishment floating all around me. I enjoyed the coolness and heaviness of solitude. I fell in love with the unknown, I fell in love with blindness.
+
+Everything disappeared. There was only the dim light of the girl's candle and the softness of the leaves on the violet plant. I could just barely see the laminated placard with her xeroxed image only slightly visible. I could hear my breath like the tides. It soothed me. The sound of my own life force is a life force. If I was going in circles it didn't matter. I began to sense that it might one day matter, that things could one day make an impression.
+
+I sensed an elevation of some kind, a rise in temperature. The emergence of oxygen into my bloodstream. I felt the pressure of complexity returning and the buzz of activity wind its way in through my ears. Aches and pains and pangs of hunger bringing an awareness of a form and a flimsy one at that. Redness spread along a prairie that hovered above me. And beyond the redness there was a world- I was sure of it.
+
+Awareness of a world brought with it awareness of certain causes and certain effects that may have brought on the lack of awareness. I was beginning to know that when I opened my eyes there would be much to contend with. I began to understand that while there was slipping and then there was gliding and a heaviness that healed- the lifting of what I suspected were probably eyelids would bring a quick and sudden eclipse of what I had experienced.
+
+Had. Experienced. Was no longer experiencing. And now what was this? Not there in the deep- and not...Here.
+
+My eyes opened and looked directly at a familiar but arresting image. It was the look of love strangled by concern that had lived on my mother's face since the day she first caught me lying in fifth grade.
+
+I lied about spelling tests. I said we weren't having them that year. And she believed me. I don't think that was my fault. I don't think as a fifth grader I was in charge of her gullibility- but for her it meant that she would never know anything about me for sure ever again. For me, it was like I had tasted first blood.
+
+And here the face was now, again, and I knew that I was about to be told that I had done something mistaken- that I had made some kind of terrible mistake when I only intended to go exploring.
+
+I lied about my spelling tests because I didn't test into the highest group and I didn't want to admit it. I wondered what I would lie about this time.
+
+I made the first move. "What happened," I asked disarmed by the deep unused scratchiness of my voice.
+
+"Don't worry about that now," said my mother smoothing my hair back.
+
+"Did I do something wrong," I asked always the concerned patron, always looking for a way to smooth over my inadequacies.
+
+"Why don't you take a few moments to get your bearings," said my mother, she was tearing up, looking at a stain on a blanket I did not recognize. I investigated my surroundings. White tile ceilings, a light blue curtain on a track, metal railings along the sides of a bed that was not my bed.
+
+"Am I in the hospital," I ran my fingertips along the worn nylon of the foreign blanket.
+
+"Yes honey. Well...we think you had some kind of accident, but- God, should I be saying any of this?"
+
+"Go ahead..." I said touching the top of her hand, stroking her tan knuckles.
+
+"Well, you had an accident, we think you had an accident."
+
+"What accident?"
+
+"You accidentally fell when you were taking a shower. You slipped, honey. And you hit your neck, and--"
+
+***
+
+They found me when the water from the tub leaked into the apartment downstairs. They ignored it for as long as they could, filling up buckets and pots and pans hoping the leak would stop on its own. When it didn't they called the superintendent who, when I didn't answer, checked the plumbing and heating systems before finally breaking into my apartment. I'd been unconscious for fourteen hours before they found me black and blue, unconscious, but thankfully still breathing.
+
+I wish that I understood myself well enough to know if my slipping in the bathtub had anything to do with the mysterious forces of my contemplations. If my fascination with the girl who fell and what it means as a symbol. If maybe she loosened the psychic grips that normally kept me standing while taking a shower and balanced without difficulty while shaving my legs. I doubt I'll ever get so deep and dark again- so close to my ID, to ever know for sure.
+
+I still live in the same building and I am fine knowing that had I died on the premises that there would have been no memorial barbeque in my honor. I am quite certain that not a single person who lives here will remember me when I'm gone no matter how I take leave of this place. I could burn it down and no one would care- and so what. What matters to me is that I found something to grab on to. I discovered my own small but sharp voice of personal conviction not five months after my release from the hospital and it was related not surprisingly to the little memorial still living in a corner of the boutique storefront.
+
+When I returned home I was glad to see that it had survived. It was comforting to know that the vicissitudes of street life had not pummeled this rare little plot of remembrance. One morning not long after my mother finally agreed to leave me on my own, I was walking up my street in the early morning. It was rare that I would be awake at this hour but I was returning from an early physical therapy appointment.
+
+I saw a dirty man standing in front of the memorial. I stopped, curious, and watched as he bent down, fingered and then picked up the laminated biographical plaque bearing the girl's picture. I assumed that he would just put it back- and when he didn't I stood in the middle of the sidewalk frozen and speechless as he shoved it down his pants. He looked around, saw me staring, turned and headed away from me, hoping that I would ignore his seemingly petty theft. Live and let live, to each his own, not my problem- the rumble of this familiar chorus played habitually in my thoughts. But then- much louder than the rumble, like an operatic soprano piercing fiercely through the grey cold morning- came the certainty that what he was doing was WRONG!
+
+"Hey! Get back here! YOU!" I yelled and hobbled after him, my body still recovering from my alleged accident. I caught up with him. "Give me that right now." I yanked on his sleeve.
+
+"What," he said not looking me in the eye, looking behind me at nothing.
+
+"I saw you. Give me back that girls picture," he hesitated, "GIVE IT BACK!" I screamed and held out my hand.
+
+"She was my friend," he said fumbling with his belt buckle.
+
+"I don't care. What you have done is wrong," I started to cry. "Her family put that there for HER," I made a move that suggested I was about to rip open his pants and he quickly dug out the picture and reluctantly handed it over to me.
+
+"You should be ashamed of yourself," I said my voice filled with contempt and walked away not giving him another look.
+
+I can honestly say that previous to that day it had never occurred to me to say the words "you should be ashamed of yourself" to anyone, not even to a serial killer or a terrorist, but that morning it came out with an authenticity that frightened me.
+
+I looked around me, searching for a witness, a third set of eyes to confirm my stance. I needed support.
+
+"Can you believe this asshole?" I would say to this supportive person.
+
+And they would shake their head in disbelief and hold out their hand to me.
+
+But there was no one.
+
+There was never anyone.

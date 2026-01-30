@@ -1,0 +1,17 @@
+---
+layout: base.njk
+title: Stories
+permalink: /stories/
+tags: []
+eleventyExcludeFromCollections: true
+---
+<div class="container">
+  <h1>Stories</h1>
+  <ul class="post-list">
+    {%- for story in collections.story %}
+    <li>
+      <a href="{{ story.url }}">{{ story.data.title }}</a>
+    </li>
+    {%- endfor %}
+  </ul>
+</div>
