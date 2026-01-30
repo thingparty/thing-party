@@ -10,7 +10,7 @@ eleventyExcludeFromCollections: true
   <ul class="post-list">
     {%- for story in collections.story %}
     <li>
-      <a href="{{ story.url }}">{{ story.data.title }}</a>
+      <a href="{{ story.url | url }}">{{ story.data.title }}</a>
     </li>
     {%- endfor %}
   </ul>
