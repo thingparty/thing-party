@@ -8,7 +8,7 @@ permalink: /paintings/
   <h1>Paintings</h1>
   <div class="gallery-grid">
     {%- for file in paintings %}
-    <div class="painting"><img src="{{ ('/images/paintings/' + file) | url }}" alt="Painting"></div>
+    <div class="painting"><img src="/images/paintings/{{ file }}" alt="Painting"></div>
     {%- endfor %}
   </div>
 </div>
