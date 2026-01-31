@@ -1,4 +1,7 @@
+import pluginRss from "@11ty/eleventy-plugin-rss";
+
 export default function(eleventyConfig) {
+  eleventyConfig.addPlugin(pluginRss);
   // Pass through static assets unchanged
   eleventyConfig.addPassthroughCopy("src/css");
   eleventyConfig.addPassthroughCopy("src/js");
