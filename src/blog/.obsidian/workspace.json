@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Post_1"
             }
+          },
+          {
+            "id": "ac22fe9d20e5b467",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Post_2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Post_2"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,10 +198,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "41846c3ae9d58ab3",
+  "active": "ac22fe9d20e5b467",
   "lastOpenFiles": [
-    "hello-world.md",
     "Post_1.md",
+    "Post_2.md",
+    "hello-world.md",
     "Thing-Post-1.md",
     "The Digital Seal - How AI Prompts Function as Modern Mudras.md"
   ]
