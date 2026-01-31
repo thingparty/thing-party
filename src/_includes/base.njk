@@ -7,28 +7,25 @@
   <link rel="stylesheet" href="{{ '/css/style.css' | url }}">
 </head>
 <body>
-  {% if not hideNav %}
-  <nav>
-    <div class="container">
+  <div class="site-wrapper">
+    <nav class="sidebar">
       <a href="{{ '/' | url }}" class="site-name">{{ site.title }}</a>
       <ul class="nav-links">
         <li><a href="{{ '/about/' | url }}">About</a></li>
         <li><a href="{{ '/blog/' | url }}">Blog</a></li>
         <li><a href="{{ '/stories/' | url }}">Stories</a></li>
         <li><a href="{{ '/paintings/' | url }}">Paintings</a></li>
+        <li><a href="{{ '/contact/' | url }}">Contact</a></li>
       </ul>
-    </div>
-  </nav>
-  {% endif %}
-
-  {{ content | safe }}
-
-  <footer>
-    <div class="container">
-      <a href="{{ site.instagram }}">Instagram</a>
-      <p>&copy; {{ site.year }} {{ site.title }}</p>
-    </div>
-  </footer>
+      <div class="nav-footer">
+        <a href="{{ site.instagram }}">Instagram</a>
+        <p>&copy; {{ site.year }}</p>
+      </div>
+    </nav>
+    <main class="content">
+      {{ content | safe }}
+    </main>
+  </div>
 
   {% if extraJs %}
   <script src="{{ extraJs | url }}"></script>
