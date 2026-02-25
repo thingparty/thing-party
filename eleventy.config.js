@@ -43,6 +43,29 @@ export default function(eleventyConfig) {
 </div>`;
   });
 
+  // Auto-wrap video iframes in responsive container
+  eleventyConfig.addTransform("responsiveVideos", (content, outputPath) => {
+    if (!outputPath || !outputPath.endsWith(".html")) {
+      return content;
+    }
+    // Match iframes from YouTube/Vimeo that aren't already wrapped
+    return content.replace(
+      /<iframe([^>]*src="https?:\/\/(www\.)?(youtube\.com|youtube-nocookie\.com|vimeo\.com)[^"]*"[^>]*)><\/iframe>/gi,
+      (match, attrs) => {
+        // Skip if already inside a video-container
+        if (content.indexOf(`<div class="video-container">\n${match}`) !== -1 ||
+            content.indexOf(`<div class="video-container">${match}`) !== -1) {
+          return match;
+        }
+        // Remove width/height attributes and wrap
+        const cleanAttrs = attrs
+          .replace(/\s*width="[^"]*"/gi, '')
+          .replace(/\s*height="[^"]*"/gi, '');
+        return `<div class="video-container"><iframe${cleanAttrs}></iframe></div>`;
+      }
+    );
+  });
+
   return {
     pathPrefix: "/thing-party/",
     dir: {
