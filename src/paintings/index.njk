@@ -8,11 +8,11 @@ permalink: /paintings/
   <h1>Paintings</h1>
   <div class="gallery-grid">
     {%- for file in paintings %}
-    <div class="painting"><img src="/images/paintings/{{ file }}" alt="Painting"></div>
+    <div class="painting"><img src="/images/paintings/{{ file }}" alt="Painting" loading="lazy" decoding="async"></div>
     {%- endfor %}
   </div>
 </div>
 
 <div id="lightbox" class="lightbox">
-  <img class="lightbox-content" src="" alt="">
+  <img class="lightbox-content" src="" alt="" loading="eager">
 </div>

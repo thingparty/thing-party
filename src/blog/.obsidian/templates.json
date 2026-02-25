@@ -1,0 +1,5 @@
+{
+  "folder": "Templates",
+  "dateFormat": "{{date:YYY-MM-DD}}",
+  "timeFormat": "{{time}}"
+}
